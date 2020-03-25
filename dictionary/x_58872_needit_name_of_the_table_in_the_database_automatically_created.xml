@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Friendly name of the new table." max_length="40" name="x_58872_needit_name_of_the_table_in_the_database_automatically_created" type="collection"/>
+</database>
